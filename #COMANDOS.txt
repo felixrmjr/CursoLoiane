@@ -1,0 +1,8 @@
+// Comando para startar um servidor
+ng serve
+
+// Comando para criar um novo componente
+ng g c NOMEDOCOMPONENTE
+
+// Comando para criar um novo modulo
+ng g m NOMEDOMODULO
